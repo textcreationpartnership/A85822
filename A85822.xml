@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relation of a strange apparition in the air, on the 19. day of August, 165[3]. at night, seen on the borders of the highlands of Scotland, some 12. miles from Elliot. Written by B.G. who was an ey-witnesse of the same</title>
+            <author>B. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85822</idno>
+            <idno type="STC">Wing G2B</idno>
+            <idno type="STC">ESTC R226171</idno>
+            <idno type="EEBO-CITATION">99896351</idno>
+            <idno type="PROQUEST">99896351</idno>
+            <idno type="VID">154154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2402:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relation of a strange apparition in the air, on the 19. day of August, 165[3]. at night, seen on the borders of the highlands of Scotland, some 12. miles from Elliot. Written by B.G. who was an ey-witnesse of the same</title>
+                  <author>B. G.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154154:1" rendition="simple:additions"/>
+            <p>THE RELATION Of a ſtrange APPARITION IN THE AIR.</p>
+            <p>On the 19. day of <hi>Auguſt,</hi> 165<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> at night, ſeen on the Borders of the <hi>Highlands</hi> of <hi>Scotland,</hi> ſome 12. miles from <hi>Elliot.</hi>
+            </p>
+            <p>Written by <hi>B.G.</hi> who was an Ey-witneſſe of the ſame.</p>
+            <q>
+               <bibl>PSAL. III. 2.</bibl>
+               <p>The works of the Lord are great, ſought out of all that have pleaſure therein.</p>
+               <p>
+                  <bibl>Verſe 4.</bibl> He hath made his wonderfull works to be re<g ref="char:EOLhyphen"/>membred.</p>
+            </q>
+            <p>Printed in the year, 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:154154:2"/>were then preſent, and did behold the ſame. There are alſo many hundreds of private Souldiers of the ſaid Regiments that can witneſse the ſame.</p>
+            <p>I ſhall not declare what my thoughts have been concerning the meaning hereof, but ſhall leave it to the wiſe conſideration of thoſe that ſhall be better able to judge of it, and ſhall wait for the farther manifeſtation of the Lord's minde in this, and all other his Acts of power and providence towards us, which is the expectation of him who deſires to be a diligent obſerver of his will, and a lover of all thoſe that do the ſame.</p>
+            <closer>
+               <signed>B. G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="5" facs="tcp:154154:2"/>
+            <head>The Relation of a ſtrange Light in the Air on the <hi>19.</hi> day of <hi>Auguſt, 1653.</hi> at night, ſeen on the Borders of the <hi>Highlands</hi> of <hi>Scotland,</hi> ſome twelve miles from <hi>Elliot.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the 19 day of <hi>Auguſt,</hi> 1653. upon the Borders of the <hi>Highlands,</hi> where that part of our Army) then comman<g ref="char:EOLhyphen"/>ded by Col. <hi>Morgan</hi>) lay encamped; It was my turn to watch the night fol<g ref="char:EOLhyphen"/>lowing, with my Company, and about eight of the clock, I having been at my Tent, was returning to my Guard on the Weſt ſide of the Camp, where I found divers of my Souſdiers ſtand looking at a light place in the Skye Eaſtward, ſaying one to another, It was a Shoale of Herrings in the Sea that cauſed the ſame; whereupon I caſt mine eye that way, and ſaw a more then ordinary light ariſing, as it were out of the Eaſt-Sea, ſtreaming upward into the Air, and en<g ref="char:EOLhyphen"/>creaſing greater and greater; and looking about, I ſaw another in the ſame form ariſing in the Weſt, op<g ref="char:EOLhyphen"/>poſite to the former, and in a ſhort ſpace they grew ſo high, that they met at the top, and were in form like a Rain-bow, only higher; Alſo there were ſudden ſtrange fleſhings of lights up and down towards the North-Eaſt and North-Weſt; The former Light
+<pb n="6" facs="tcp:154154:3"/>began to move towards the North, and to ſink down lower: And as they moved, they divided in the midſt, one part to the North-Eaſt, the other to the North-Weſt, and were like two great bright Clouds. The Air being clear and ſtar-light, and not an ordinary Cloud appeared all the night, theſe two Lights that divided, became on a ſudden like ſtreaks of blackand white, pointing directly up and down, or like groves of ſtraight Trees without any boughs, or like multitudes of ſhips maſts; and pre<g ref="char:EOLhyphen"/>ſently they began to move in oppoſition, and grew very ſwift in their motion, and appeared in this mo<g ref="char:EOLhyphen"/>tion like a great Body of Pikes, ſwiftly counter<g ref="char:EOLhyphen"/>marching, and ſo continued for about half an hour. The Air all this while towards the North parts ſee<g ref="char:EOLhyphen"/>med ſtrangely to roll to and fro with ſmaller Lights, darting or flaſhing up and down.</p>
+            <p>So this firſt motion of the Trees began to ceaſe, and the Trees to retire one part from the other; and as they divided, the form of Trees vaniſhed, and be<g ref="char:EOLhyphen"/>came again like Clouds, as before, one towards the North-Eaſt, the other towards the North-Weſt; and all this while it was very light, that a man might ſee to read in a Book, ſmall lights flaſhing ſtill up and down; and anon began the great bright Clouds to move in oppoſition, and the Trees appeared again in their former ſhape, and began to encounter each Party with other, as before, and grew very ſwift and furious in their motion, in the manner of a Counter<g ref="char:EOLhyphen"/>march, which motion continued near half an hour, and then began to ceaſe and divide again, as before; And as they retired, the form of the Trees or Maſts
+<pb n="7" facs="tcp:154154:3"/>vaniſhed and only the bright clouds appeared, which moved towards the North-Eaſt and North Weſt as before; The Air ſtill ſeemed to be in a ſtrange mo<g ref="char:EOLhyphen"/>tion of ſudden opening and ſhutting, and ſmall clouds darting up and down; and within three quar<g ref="char:EOLhyphen"/>ters of an hour began the Trees the third time to ap<g ref="char:EOLhyphen"/>pear, and to advance one Party toward the other, till they met, and encountered more ſwiftly and fu<g ref="char:EOLhyphen"/>riouſly then before, and at the bottom of the North-Eaſt Party there appeared the likeneſſe of Blood or Fire, very dreadfull to behold, but very little of it appeared on the North-Weſt; This third encoun<g ref="char:EOLhyphen"/>ter continued rather longer then the two former, and at laſt began to ceaſe and to divide the one part from the other, and ſtill as they divided, the form of Trees or black and white ſtrakes vaniſhed as before: And one Part moved Eaſtward, the o<g ref="char:EOLhyphen"/>ther Weſtward, untill at length they came to their firſt ſtation and to their firſt form; the appearance of Blood or Fire alſo vaniſhed: there were ſtill ſmall Lights flaſhing up and down, &amp; theſe two firſt Lights began to ſtream upward as at the firſt, till at length they met again at the top, and became the ſecond time like unto a Bow, and then moved Northwards, and then all the other motions and flaſhings ceaſed, and this Light ſunk down lower and lower towards the North till it came to the likeneſſe of a great Arch of a Bridge, ſupported as it were at either end with a ſhort Pillar, one fixed towards the North-Eaſt, and the other towards the North-Weſt; It was by this time two of the clock in the morning, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd this form of the Bridge continued firm without
+<pb n="8" facs="tcp:154154:4"/>any other motion untill day light expelled the ſame; Many other circumſtances might have been noted concerning thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing, which could my memory have retained them, yet I ſhould have wan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed fit words to have expreſſed, they being of ſo ſtrange a nature, therefore I forbear, having given you the ſum thereof: only, I may not omit the gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>errour and amazement which did accompany the beholders, for many men of reſolute pi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in other caſes, were now like <hi>Belſhazer</hi> ready to ſm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te their knees one againſt the other for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear, and went trem<g ref="char:EOLhyphen"/>bling and fighing up and down like men aſtoniſhed, fearing that the great day of Account had now been beginning, as by the expreſſions of ſome d d appear. I did ſet my ſelf diligently to obſerve every paſſage hereof, expecting alſo, what would b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the event; About mid-night I went to Collonel <hi>Morgans</hi> Tent to acquaint him with this ſtrange ſight; he told me, he was but newly gone in from looking upon it, and ſaid, It was a wonderfull ſtrange thing, and that certainly it did betoken ſome great Se<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Fight, becauſe there was the appearance of the Maſts of Ships, which Interpretation ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been ſince ſuffici<g ref="char:EOLhyphen"/>ently ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e good, although the lat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er part did ſeem to ſignifie ſomething further, which is left to con<g ref="char:EOLhyphen"/>ſideration untill the event of things in time do fur<g ref="char:EOLhyphen"/>ther manifeſt ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
